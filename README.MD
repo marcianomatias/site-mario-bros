@@ -41,3 +41,7 @@ Se você encontrar algum problema ao utilizar o site ou tiver sugestões de melh
 ## Licença
 
 Este projeto está licenciado sob a licença [MIT](LICENSE). Sinta-se à vontade para utilizar, modificar e distribuir o site de acordo com os termos da licença.
+
+## Imagem
+
+![Captura de tela de 2023-05-25 21-44-56](https://github.com/marcianomatias/site-mario-bros/assets/10820742/2b7403d0-0881-4593-888a-8ba0c6f03fde)
